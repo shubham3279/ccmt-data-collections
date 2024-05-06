@@ -1,1 +1,2 @@
-ccmt-2023/scrape_data.ipynb linguist-language=Python
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
