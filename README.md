@@ -1,2 +1,2 @@
-<h1 align = "center"> CCMT 2023 OPENING AND CLOSING SCORE DATA </h1>
+<h1 align = "center"> CCMT  OPENING AND CLOSING SCORE DATA </h1>
 
