@@ -1,2 +1,2 @@
-# data-gathering-projects
-A collection of data gathering(scraping, crawling, manual entry) projects.
+<h1 align = "center"> CCMT Data Collection </h1>
+
