@@ -5,7 +5,7 @@
   <p align = 'center'>
     <ul>
       <li>
-        Programatically crawled data for Centralized Counselling for M.Tech/M.Arch/M.Plan Admissions (CCMT),  Counselling 2023 , (though it could have been a simple manual copy paste) using Selenium-Python framework and exported it into <b>.csv</b> and <b>.xlsx</b> format.
+        Programatically crawled data for Centralized Counselling for M.Tech/M.Arch/M.Plan Admissions (CCMT),  Counselling 2023 , using Selenium-Python framework and exported it into <b>.csv</b> and <b>.xlsx</b> format.
       </li>
       <li>
         The data is originally available at  <a href = 'https://admissions.nic.in/ccmt/applicant/report/ORCRReport.aspx?boardid=105012321'>CCMT </a> website.
